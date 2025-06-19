@@ -4,7 +4,7 @@ html {
 
 span {
   display:flex;
-  flex-direction: column;
+  /* flex-direction: column; */
 }
 .canvas {
   margin: 100px auto 100px;
